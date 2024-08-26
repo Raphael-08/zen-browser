@@ -12,7 +12,7 @@
       downloadUrl = {
         "specific" = {
 	  url = "https://github.com/zen-browser/desktop/releases/download/${version}/zen.linux-specific.tar.bz2";
-	  sha256 = "sha256:1bxd23dyyzvxvdq9bwx2g7hm1jbkmh8m7phj64hwqvps0p6lf96i";
+	  sha256 = "sha256:0nmfqrr7x16p989m63inr9qz80l3hy94ymidn0x76j1hjldr37z5";
 	};
 	"generic" = {
 	  url = "https://github.com/zen-browser/desktop/releases/download/${version}/zen.linux-generic.tar.bz2";
